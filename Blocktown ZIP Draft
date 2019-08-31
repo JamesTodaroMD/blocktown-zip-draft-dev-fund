@@ -92,12 +92,12 @@ Aspects of this proposal, particularly the Terminology and Specification section
 
 
 References
-[1] Key words for use in RFCs to Indicate Requirement Levels
-[2] The Zcash Network Upgrade Pipeline 
-[3] Zcash Foundation Guidance on Dev Fund Proposals
-[4] ECC Initial Assessment of Community Proposals
-[5] Proposal for the Zcash 2020 Network Upgrade (topic on the Zcash community forum) 
-[6] Blocktown Proposal for Zcash 2020 Network Upgrade 
-[7] Proposal for the Zcash 2020 Network Upgrade
-[8] Executive Summary: Blocktown Proposal for Zcash 2020 Network Upgrade
-[9] Dev Fund Proposal: 20% to a 2-of-3 multisig with community-involved governance
+[1] Key words for use in RFCs to Indicate Requirement Levels, <a href="https://tools.ietf.org/html/rfc2119">Key Words</a>
+[2] The Zcash Network Upgrade Pipeline, <a href="https://electriccoin.co/blog/the-zcash-network-upgrade-pipeline/">NU Pipeline</a>
+[3] Zcash Foundation Guidance on Dev Fund Proposals, <a href="https://www.zfnd.org/blog/dev-fund-guidance-and-timeline/">ZIP Guide</a>
+[4] ECC Initial Assessment of Community Proposals, <a href="https://electriccoin.co/blog/ecc-initial-assessment-of-community-proposals/">ECC Initial Assessment of Proposals</a>
+[5] Proposal for the Zcash 2020 Network Upgrade (topic on the Zcash community forum), <a href="https://forum.zcashcommunity.com/t/proposal-for-the-zcash-2020-network-upgrade/34503">Zcash Forum Blocktown Proposal</a>
+[6] Blocktown Proposal for Zcash 2020 Network Upgrade, <a href="https://medium.com/blocktown/blocktown-proposal-for-zcash-2020-network-upgrade-fdec1e9d507c">Blocktown Proposal for NU4</a>
+[7] Proposal for the Zcash 2020 Network Upgrade, <a href="https://medium.com/blocktown/proposal-for-the-zcash-2020-network-upgrade-fcd320a5d6f5">Initial Blocktown Proposal</a>
+[8] Executive Summary: Blocktown Proposal for Zcash 2020 Network Upgrade, <a href="https://medium.com/blocktown/executive-summary-blocktown-proposal-for-zcash-2020-network-upgrade-84ff20997502">Blocktown Proposal Executive Summary</a>
+[9] Dev Fund Proposal: 20% to a 2-of-3 multisig with community-involved governance, <a href="https://forum.zcashcommunity.com/t/dev-fund-proposal-20-to-a-2-of-3-multisig-with-community-involved-governance/34646">Placeholder ZIP Draft</a>
